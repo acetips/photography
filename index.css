@@ -22,3 +22,6 @@ h2{
     font-style: oblique;
     border: solid yellow;
 }
+strong{
+    color: cyan;
+}
