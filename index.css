@@ -22,6 +22,7 @@ h2{
     color: cyan;
     font-style: oblique;
     border: solid yellow;
+    text-align: center;
 }
 strong{
     color: cyan;
