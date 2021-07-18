@@ -12,6 +12,7 @@ div{
 p{
     color: brown;
     font-size: x-large;
+    text-align: left;
 }
 span{
     color: blue;
@@ -28,4 +29,7 @@ strong{
 ul{
     color: violet;
     text-align: left;
+}
+h3{
+    text-align: right;
 }
