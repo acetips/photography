@@ -1,5 +1,5 @@
 body{
-    background-color: black
+    background-color: beige;
 }
 h1{
     color: blue;
@@ -24,4 +24,8 @@ h2{
 }
 strong{
     color: cyan;
+}
+ul{
+    color: violet;
+    text-align: left;
 }
