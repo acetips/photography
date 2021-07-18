@@ -8,3 +8,6 @@ body{
 p{
     font-size: x-large;
 }
+div{
+    font-style: italic;
+}
