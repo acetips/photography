@@ -19,4 +19,5 @@ span{
 h2{
     color: cyan;
     font-style: oblique;
+    border: solid yellow;
 }
